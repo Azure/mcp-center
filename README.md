@@ -18,11 +18,11 @@ Every Azure API Center includes an **MCP Discovery Page** to highlight remote MC
 ### 🚀 Why Partner with Us?
 By joining the Azure MCP ecosystem and showcasing your MCP servers, you unlock the following opportunities:
 
-| 🎯 **Benefit** | 📈 **Impact** |
-|----------------|---------------|
-| **🌐 Boost Visibility & Adoption** | Get your MCP servers in front of a broad audience of Azure customers, dramatically increasing discoverability and adoption potential |
+| 🎯 **Benefit**                         | 📈 **Impact**                                                                                                                                       |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| **🌐 Boost Visibility & Adoption**   | Get your MCP servers in front of a broad audience of Azure customers, dramatically increasing discoverability and adoption potential              |
 | **🔒 Streamline Governance & Compliance** | Leverage centralized registry benefits for easier governance and management, ensuring your servers meet enterprise security and compliance standards |
-| **⚡ Lead the AI Revolution** | Position your organization at the forefront of AI innovation within Azure's rapidly evolving ecosystem |
+| **⚡ Lead the AI Revolution**         | Position your organization at the forefront of AI innovation within Azure's rapidly evolving ecosystem                                             |
 
 
 
