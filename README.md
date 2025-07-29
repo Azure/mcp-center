@@ -35,7 +35,7 @@ By joining the Azure MCP ecosystem and showcasing your MCP servers, you unlock t
 Ready to join the Azure MCP ecosystem? If you want to onboard your MCP server and make it discoverable through the Azure API Center's MCP Discovery Page, follow these simple steps:
 
 ### Step 1: Express Your Interest
-📝 **Comment on this issue** to let us know you're interested in joining the ecosystem.
+📝 **Comment on [this issue](https://github.com/Azure/mcp-center/issues/4)** to let us know you're interested in joining the ecosystem.
 
 ### Step 2: Provide Your MCP Server Details
 Please share the following information about your MCP server:
