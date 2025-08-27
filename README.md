@@ -1,6 +1,6 @@
 # <img src="media/apic-icon.svg" alt="Azure API Center" height="48" style="vertical-align: middle; margin-right: 12px;"> Welcome to MCP Center
 
-[MCP Center](https://aka.ms/mcp-center) serves as a showacse illustrating how Azure customers can build their own **enterprise-ready MCP registry**. It's important to understand that this is **not a public registry**; rather, it's a curated collection of MCP servers designed to inspire and guide our customers.
+[MCP Center](https://aka.ms/mcp-center) serves as a showcase illustrating how Azure customers can build their own **enterprise-ready MCP registry**. It's important to understand that this is **not a public registry**; rather, it's a curated collection of MCP servers designed to inspire and guide our customers.
 
 ![MCP Center](media/mcpcenter.jpg)
 
